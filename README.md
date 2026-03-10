@@ -76,13 +76,7 @@
 🔗 [GitHub repository](https://github.com/crypton-oss/Frelanker-Sign-In)
 
 
-### 🌐 Portfolio Sayt
-![3D Car Website Preview](./assets/portfolio.png)
-**Texnologiyalar:** 
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js," />
-</p>
 
 
 
