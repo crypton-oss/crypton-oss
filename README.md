@@ -32,6 +32,8 @@
 
 ---
 
+### My Resume 
+![My Resume  Preview](./assets/my-resume.jpg)
 
 
 
