@@ -8,10 +8,10 @@
 ![Position](https://img.shields.io/badge/Role-Developer-blue)
 ![Location](https://img.shields.io/badge/From-Uzbekistan-yellow)
 
-<h1 align="center">Salom 👋, Men Anonim  Crypton </h1>
+<h1 align="center">Salom 👋, Men Ozodbek Usmonqulov </h1>
 
 <p align="center">
-  💻 Full Stack Developer | 🌐 Telegram bot yaratuvchisi | 🚀 Portfolio ishlab chiquvchisi
+  💻 Full Stack Developer | 🌐 Telegram bot yaratuvchisi | 🚀 Android ilovalar ishlab chiquvchi
 </p>
 
 ---
