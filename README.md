@@ -85,7 +85,7 @@
 
 
 
-
+<!-- 
 ### 📊 GitHub statistikasi
 
 <p align="left">
@@ -95,4 +95,4 @@
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ozodbek-8486&layout=compact&theme=radical" alt="Top Languages" width="48%" />
-</p>
+</p> -->
